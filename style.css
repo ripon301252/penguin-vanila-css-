@@ -332,5 +332,30 @@ body{
         width: 700px;
         flex-direction: column-reverse;
     }
-   
+    .find{
+        width: 658px;
+        flex-direction: column;
+        text-align: center;
+        gap: 35px;
+        padding: 45px 35px;
+        margin-bottom: 50px;
+    }
+    .find h1{
+       font-size: 50px;
+    
+    }
+    .find p{
+        
+        font-size: 50px;
+    }
+
+    .img img{
+        width: 256px;
+       
+    }
+    .big-img img {
+        width: 700px;
+        margin-bottom: 60px;
+    }
 }
+
